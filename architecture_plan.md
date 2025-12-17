@@ -23,7 +23,7 @@
 
 ## Security, Identity, and Governance Basics
 
-Credentials for accessing cloud services would be managed using environmental variables to ensure that no sensitive data is hard-coded in the databases or flask application. Role-based access control would be given to users with specific permissions. For instance, study coordinators would only be able to upload files, while analysts can query the dashboards, and administrators can manage the infrastructure. To ensure that patient information is protected, all personal health information will be de-identified. This would be done by using only assigned participant IDs. 
+Credentials for accessing cloud services would be managed using environmental variables to ensure that no sensitive data is hard-coded in the databases or flask application. Role-based access control would be given to users with specific permissions. For instance, study coordinators would only be able to upload files, while analysts can query the dashboards, and administrators can manage the infrastructure. To ensure that patient information is protected, all personal health information will be de-identified. This would be done by using only assigned participant IDs that contain no personal information. 
 
 ## Cost and Operational Considerations
 
