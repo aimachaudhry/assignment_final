@@ -1,5 +1,5 @@
 # Use Case Description
-The Clinical Trial Screening, Enrollment, and Retention Tracker is a cloud-based platform that would give biotech sponsors further insight into their trial performance by centralizing participant-level screening data, site-level enrollment metrics, and retention data across multiple sites and trials.
+The Clinical Trial Screening, Enrollment, and Retention Tracker is a cloud-based platform that would give clinical trial sponsors further insight into their trial performance by centralizing participant-level screening data, site-level enrollment metrics, and retention data across multiple sites and trials.
 
 ## Problem Statement
 
